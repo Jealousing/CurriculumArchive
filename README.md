@@ -6,7 +6,7 @@
 ## Summary by Semester for Year
 -------------
  <details>
- > <summary>**2nd Year 1st Semester** </summary>
+ > **<summary>2nd Year 1st Semester </summary> **
  
 * **[C#][c#link]**  
     * IntVector
