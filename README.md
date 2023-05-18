@@ -7,13 +7,13 @@
 -------------
  <details>
  > <summary>**2nd Year 1st Semester** </summary>
+ 
 * **[C#][c#link]**  
     * IntVector
     * Omok
     * PlantsVsZombies
     * SlidingPuzzle
     * Tetris
-    
 * **[C++][c++link]**
     * Final Assignment
     * Grade Management Program
