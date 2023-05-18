@@ -1,0 +1,39 @@
+<p>온라인이력서 제출사이트입니다.</p>
+<p>이력서에 필요한 정보를 입력해주세요.!!</p>
+<br>
+<form action="{% url 'index' %}" method="POST" enctype="multipart/form-data">
+    {% csrf_token %}
+    <!-- 이력서에 필요한 정보 받아오기 -->
+    이름 :         <input type="text" name="name"><br>
+    생년월일 :     <input type="text" name="birthday"><br>
+    핸드폰번호 :    <input type="text" name="number"><br>
+    이메일 :    <input type="text" name="email"><br>
+    주소 :    <input type="text" name="address"><br>
+    <p>학위과정1</p>
+    학교명 :    <input type="text" name="education1_name"><br>
+    학위과정 :    <input type="text" name="education1_degreeCourse"><br>
+    기간 :    <input type="text" name="education1_term"><br>
+    전공 :    <input type="text" name="education1_major"><br>
+    졸업여부 :    <input type="text" name="education1_graduate"><br>
+
+
+    <p>학위과정2</p>
+    학교명 :    <input type="text" name="education2_name"><br>
+    학위과정 :    <input type="text" name="education2_degreeCourse"><br>
+    기간 :    <input type="text" name="education2_term"><br>
+    전공 :    <input type="text" name="education2_major"><br>
+    졸업여부 :    <input type="text" name="education2_graduate"><br>
+
+    <p>학위과정3</p>
+    학교명 :    <input type="text" name="education3_name"><br>
+    학위과정 :    <input type="text" name="education3_degreeCourse"><br>
+    기간 :    <input type="text" name="education3_term"><br>
+    전공 :    <input type="text" name="education3_major"><br>
+    졸업여부 :    <input type="text" name="education3_graduate"><br><br>
+
+    참고사항  :    <input type="text" name="note"><br><br>
+
+    사진: <input type="file" name="image"> <br>
+    <!-- 이력서 정보 넘기기 -->
+    <br><input type="submit" value="Upload"><br>
+</form>

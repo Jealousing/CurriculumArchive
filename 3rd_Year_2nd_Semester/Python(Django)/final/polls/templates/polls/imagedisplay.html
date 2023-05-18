@@ -1,0 +1,84 @@
+<!-- 이력서 -->
+<!DOCTYPE html>
+<html>
+<body>
+<table border="1" width="700">
+
+<tr>
+<td rowspan="5"  width ="150" height="150">
+<img src="{{ img.images.url }}" width="150" height="150">
+</td>
+<th colspan="9" height="50"><font size="5">이  력  서</font></th>
+</tr>
+
+<tr>
+    <!-- 이름 생년월일 -->
+    <th  width="100" bgcolor="D5D5D5">이 름</th><td width="190" ><center> {{img.name}}</center></td>
+    <th  width="150" bgcolor="D5D5D5">생 년 월 일</th><td width="190"> <center> {{img.birthday}}</center> </td>
+
+</tr>
+
+<tr>
+    <!-- 핸드폰번호, 이메일 -->
+    <th  width="50"  bgcolor="D5D5D5">연 락 처</th><td width="190"><center> {{img.number}}</center></td>
+    <th  width = "80"  bgcolor="D5D5D5">E-mail</th><td width="190"><center> {{img.email}}</center></td>
+</tr>
+<tr>
+    <!-- 주소  -->
+<th bgcolor="D5D5D5">현 주 소</th>
+<td colspan="8"><center> {{img.address}}</center></td>
+</tr>
+</table>
+<table border="1">
+<tr>
+<th colspan="6" width = "690"  bgcolor="D5D5D5">학  력  사  항</th>
+</tr>
+<tr>
+    <!-- 학위 과정  -->
+<th bgcolor="D5D5D5">학위과정</th>
+<th bgcolor="D5D5D5">기 간</th>
+<th bgcolor="D5D5D5">학 교 명</th>
+<th bgcolor="D5D5D5">전 공</th>
+<th bgcolor="D5D5D5">졸업</th>
+</tr>
+<tr>
+<td><center> {{img.education1_degreeCourse}}</center></td>
+<td align="center"><center> {{img.education1_term}}</center></td>
+<td><center> {{img.education1_name}}</center></td>
+<td><center> {{img.education1_major}}</center></td>
+<td><center> {{img.education1_graduate}}</center></td>
+</tr>
+<tr>
+<td><center> {{img.education2_degreeCourse}}</center></td>
+<td align="center"><center> {{img.education2_term}}</center></td>
+<td><center> {{img.education2_name}}</center></td>
+<td><center> {{img.education2_major}}</center></td>
+<td><center> {{img.education2_graduate}}</center></td>
+</tr>
+<tr>
+<td><center> {{img.education3_degreeCourse}}</center></td>
+<td align="center"><center> {{img.education3_term}}</center></td>
+<td ><center> {{img.education3_name}}</center></td>
+<td><center> {{img.education3_major}}</center></td>
+<td><center> {{img.education3_graduate}}</center></td>
+</tr>
+<tr>
+<th bgcolor="D5D5D5">참 고 사 항</th>
+<td colspan="5"><center> {{img.note}}</center></td>
+</tr>
+
+<tr>
+<td colspan="6">
+<p style = "text-align:center" >위 기재 사항은 사실과 틀림이 없습니다. </p>
+<br/>
+<br/>
+<p style = "text-align:center" >20&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;년&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;월&nbsp;&nbsp;&nbsp;&nbsp;일 </p>
+<br/>
+<br/>
+<p style = "text-align:right" >(인)&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+
+</table>
+</body>
+</html>
