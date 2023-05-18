@@ -5,23 +5,16 @@
 
 ## Summary by Semester for Year
 -------------
-
-<details>
-<summary>접기/펼치기 Test </summary>
-aaaaaaaa
-</details>
-
-
- > **2nd Year 1st Semester**
+ <details>
+ > <summary>**2nd Year 1st Semester** </summary>
 * **[C#][c#link]**  
-    <details>
-    <summary>접기/펼치기 Test </summary>
     * IntVector
     * Omok
     * PlantsVsZombies
     * SlidingPuzzle
     * Tetris
-    </details>
+    
+ </details>
 
 
 * **[C++][c++link]**
