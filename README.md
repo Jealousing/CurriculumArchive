@@ -1,11 +1,11 @@
 # CurriculumArchive
----------------------------------------
+
  Back up the codes I learned and wrote as a student.  
  It's a code that I usually used for assignments or exams. It's not enough.
 
 If there is a problem with the code, I will delete it right away Please tell us.
+
 ## Summary by Semester for Year
--------------
 
  <details>
  <summary><b><em>2nd Year 1st Semester</em></b> </summary>
@@ -81,6 +81,7 @@ If there is a problem with the code, I will delete it right away Please tell us.
  
  </details>
 
+---------------------------------------
 [c#link]: /2nd_Year_1st_Semester/C%23
 [c++link]: /2nd_Year_1st_Semester/C%2B%2B
 [algorithmlink]: /2nd_Year_1st_Semester/Data%20Structures%20and%20Algorithms
