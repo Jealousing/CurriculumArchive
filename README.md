@@ -34,6 +34,7 @@
     * Maze
 
  </details>
+ 
 > **2nd Year 2nd Semester**
 > **3rd Year 1st Semester**
 > **3rd Year 2nd Semester**
