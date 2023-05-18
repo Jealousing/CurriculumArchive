@@ -18,8 +18,8 @@
 > **3rd Year 2nd Semester**
 
 [c#link]: /2nd_Year_1st_Semester/C%23
-[IntVectorlink]: https://github.com/Jealousing/CurriculumArchive/tree/main/2nd_Year_1st_Semester/C%23/IntVector
-[Omoklink]: https://github.com/Jealousing/CurriculumArchive/tree/main/2nd_Year_1st_Semester/C%23/Omok
-[PlantsVsZombieslink]:https://github.com/Jealousing/CurriculumArchive/tree/main/2nd_Year_1st_Semester/C%23/PlantsVsZombies
-[SlidingPuzzlelink]:https://github.com/Jealousing/CurriculumArchive/tree/main/2nd_Year_1st_Semester/C%23/SlidingPuzzle
-[Tetrislink]:https://github.com/Jealousing/CurriculumArchive/tree/main/2nd_Year_1st_Semester/C%23/Tetris
+[IntVectorlink]: /2nd_Year_1st_Semester/C%23/IntVector
+[Omoklink]: /2nd_Year_1st_Semester/C%23/Omok
+[PlantsVsZombieslink]:/2nd_Year_1st_Semester/C%23/PlantsVsZombies
+[SlidingPuzzlelink]:/2nd_Year_1st_Semester/C%23/SlidingPuzzle
+[Tetrislink]:/2nd_Year_1st_Semester/C%23/Tetris
