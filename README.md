@@ -17,7 +17,7 @@
 > **3rd Year 1st Semester**
 > **3rd Year 2nd Semester**
 
-[c#link]: /tree/main/2nd_Year_1st_Semester/C%23
+[c#link]: /2nd_Year_1st_Semester/C%23
 [IntVectorlink]: https://github.com/Jealousing/CurriculumArchive/tree/main/2nd_Year_1st_Semester/C%23/IntVector
 [Omoklink]: https://github.com/Jealousing/CurriculumArchive/tree/main/2nd_Year_1st_Semester/C%23/Omok
 [PlantsVsZombieslink]:https://github.com/Jealousing/CurriculumArchive/tree/main/2nd_Year_1st_Semester/C%23/PlantsVsZombies
