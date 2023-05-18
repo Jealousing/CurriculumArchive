@@ -14,9 +14,6 @@
     * SlidingPuzzle
     * Tetris
     
- </details>
-
-
 * **[C++][c++link]**
     * Final Assignment
     * Grade Management Program
@@ -36,7 +33,7 @@
     * Galaga
     * Maze
 
-
+ </details>
 > **2nd Year 2nd Semester**
 > **3rd Year 1st Semester**
 > **3rd Year 2nd Semester**
