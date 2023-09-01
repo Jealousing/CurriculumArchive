@@ -9,16 +9,17 @@ If there is a problem with the code, I will delete it right away Please tell us.
 
  <details>
  <summary><b><em>2nd Year 1st Semester</em></b> </summary>
- 
-* **[C#][c#link]**  
+  
+* Game Design Basics, 게임기획기초  
+* **[C#, 게임프로그래밍기초][c#link]**  
     * IntVector
     * Omok
     * PlantsVsZombies
     * SlidingPuzzle
     * Tetris
-* **[C++][c++link]**
+* **[C++, 객체지향프로그래밍Ⅱ][c++link]**
     * Grade Management Program
-* **[Data Structures and Algorithms][algorithmlink]**
+* **[Data Structures and Algorithms, 게임알고리즘][algorithmlink]**
     * Avl Bst comparison
     * BFS
     * Binary search
@@ -30,7 +31,7 @@ If there is a problem with the code, I will delete it right away Please tell us.
     * Graph Adjacency Matrix Implementation
     * Kruskal Algorithm
     * Stack implementation
-* **[WinApi][winapilnk]**
+* **[WinApi, 윈도우즈프로그래밍Ⅱ][winapilnk]**
     * Galaga
     * Maze
 
@@ -38,12 +39,14 @@ If there is a problem with the code, I will delete it right away Please tell us.
  
   <details>
  <summary><b><em>2nd Year 2nd Semester</em></b> </summary>
- 
- * **[C#][C#2link]**
+
+ * Game Analysis, 게임분석
+ * Game Mathematics and Physics, 게임수학및물리학
+ * **[C#, 게임엔진][C#2link]**
     * Across the street
     * Archero
- * **[Game Graphics][GameGraphicslink]**
- * **[Network Programming][Networklink]**
+ * **[Game Graphics, 게임그래픽프로그래밍Ⅰ][GameGraphicslink]**
+ * **[Network Programming, 게임네트워크프로그래밍][Networklink]**
     * BaskinRobbins31Game(TCP)
     * BullsAndCowsGame (TCP)
     * Chatting Server(GUI TCP)
@@ -56,15 +59,15 @@ If there is a problem with the code, I will delete it right away Please tell us.
  <details>
  <summary><b><em>3rd Year 1st Semester</em></b> </summary>
  
- * **[DB(MySQL)][dblink]**
- * **[DirectX][dxlink]**
- * **[Java][javalink]**
- * **[Network Programming][network2link]**
+ * **[DB(MySQL), 게임데이터베이스프로그래밍][dblink]**
+ * **[DirectX, 게임그래픽프로그래밍Ⅱ][dxlink]**
+ * **[Java, 인터넷프로그래밍][javalink]**
+ * **[Network Programming, 온라인게임제작][network2link]**
     * ChattingServer(Unicast)
     * CompletionPortTCPServer
     * Memory Matching Game(IOCPTthread)
     * Overlapped IO server(TCP)
- * **[Unity][unitylink]**
+ * **[Unity, 게임인터페이스프로그래밍][unitylink]**
     *  MinecraftCraftingTable
     *  Skill Tree
  
@@ -73,10 +76,12 @@ If there is a problem with the code, I will delete it right away Please tell us.
  
  <details>
  <summary><b><em>3rd Year 2nd Semester</em></b> </summary>
- 
-* **[GameSystemDesign(UML)][umllink]**
-* **[Python(Django)][pythonlink]**
-* **[Unreal][unreallink]**
+
+* UnityTeamProject, 게임제작프로젝트실습
+* Android Studio, 모바일프로그래밍
+* **[GameSystemDesign(UML), 게임시스템설계][umllink]**
+* **[Python(Django), 윈도우즈프로그래밍실습Ⅱ][pythonlink]**
+* **[Unreal, 게임인공지능][unreallink]**
  
  
  </details>
